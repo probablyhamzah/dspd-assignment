@@ -1,0 +1,14 @@
+
+10000
+1
+covaxin
+district1
+1
+1980
+
+10001
+1
+sputnik
+district1
+1
+2001

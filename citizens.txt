@@ -1,0 +1,12 @@
+
+10000
+my name
+male
+1980
+0
+
+10001
+name
+female
+2001
+0
